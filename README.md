@@ -41,13 +41,13 @@ module.exports = {
   margin-right: auto;
   max-width: 1280px;
   padding-left: 25px;
-  padding-right: 25px
+  padding-right: 25px;
 }
 
 @media (min-width: 768px) {
   .container {
     padding-left: 50px;
-    padding-right: 50px
+    padding-right: 50px;
   }
 }
 
@@ -55,13 +55,13 @@ module.exports = {
   display: flex;
   flex-wrap: wrap;
   margin-left: -16px;
-  margin-right: -16px
+  margin-right: -16px;
 }
 
 .col {
   width: 100%;
   flex: none;
   padding-left: 16px;
-  padding-right: 16px
+  padding-right: 16px;
 }
 ```
