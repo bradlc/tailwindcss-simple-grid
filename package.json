@@ -1,0 +1,10 @@
+{
+  "name": "tailwindcss-simple-grid",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/simpleGrid.js",
+  "files": ["src/*"],
+  "keywords": ["tailwindcss", "tailwind"],
+  "author": "Brad Cornes <hello@bradley.dev>",
+  "license": "MIT"
+}
