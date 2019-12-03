@@ -49,6 +49,7 @@ function simpleGrid(arg) {
   }
 
   let col = {
+    width: '100%',
     flex: 'none',
     ...(gutter
       ? { paddingLeft: `${gutter / 2}px`, paddingRight: `${gutter / 2}px` }

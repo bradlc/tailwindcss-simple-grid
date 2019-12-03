@@ -59,6 +59,7 @@ module.exports = {
 }
 
 .col {
+  width: 100%;
   flex: none;
   padding-left: 16px;
   padding-right: 16px
