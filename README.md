@@ -37,11 +37,12 @@ module.exports = {
 
 ```css
 .container {
-  margin-left: auto;
-  margin-right: auto;
+  width: 100%;
   max-width: 1280px;
   padding-left: 25px;
   padding-right: 25px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 @media (min-width: 768px) {

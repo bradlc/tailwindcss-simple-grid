@@ -7,7 +7,7 @@ function simpleGrid(arg) {
   let { addComponents, theme } = arg
 
   let container = [
-    { '.container': { marginLeft: 'auto', marginRight: 'auto' } }
+    { '.container': { width: '100%', marginLeft: 'auto', marginRight: 'auto' } }
   ]
 
   let { maxWidth, gutter: containerGutter } = theme('grid.container', {})
